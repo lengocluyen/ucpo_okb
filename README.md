@@ -13,11 +13,6 @@ UCPO is an ontology that models users' static and contextual profiles to support
 - Personalized vehicle sales platforms
 - Adaptive and semantic web services
 
-The ontology integrates:
-- **Demographic attributes** (age, gender, occupation, etc.)
-- **User preferences** (vehicle brand, budget, fuel type, etc.)
-- **Contextual dimensions** (location, time, device, activity, social context)
-
 ## 📁 Files
 
 - `ucpo.owl`: OWL ontology file (developed in OWL2 using Protégé)
